@@ -380,6 +380,17 @@ a:hover {color: #488E48; border-bottom: 0px solid #fff; background: transparent;
 
 }
 
+.compal-bodytext2_4 {
+	line-height:25px;
+	table-layout: fixed;
+	word-wrap: break-word;
+	word-break: normal;
+	text-align: justify;
+	text-justify: inter-ideograph;
+	padding-right: 10px;
+	padding-left: 10px;
+
+}
 .compal-bodytext2-7 {
 	line-height:25px;
 	table-layout: fixed;
