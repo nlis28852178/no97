@@ -309,7 +309,7 @@ p span {
 }
 #columnscopy4 {
 	background-color: #FFFFFF;
-	width: 380px;
+	width: 400px;
 	height: auto;
 	float: right;
 	vertical-align: text-top;
@@ -319,7 +319,7 @@ p span {
 #footer {
 	width: 925px;
 	height: 25px;
-	background: url(../images/footerbg_tit.jpg) ;
+	background: url(../images/footerbg_tit.jpg);
 	color: #FFFFFF;
 	text-align: center;
 	vertical-align: middle;
